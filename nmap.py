@@ -17,9 +17,6 @@ for line in lines:
  time.sleep(0.2) #Delay of 0.5 seconds between each line
 
 
-print('''This tool is to assist in port scanning...
-
-''')
-print('written by blessing lomba')
+print('''                                                                              Written by QuinJesi''')
 
 
